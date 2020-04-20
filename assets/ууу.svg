@@ -1,0 +1,515 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                        viewBox="0 0 1662 716" style="enable-background:new 0 0 1662 716;" xml:space="preserve">
+                    <style type="text/css">
+                        .st0{opacity:0.55;fill:#0095DA;enable-background:new    ;}
+                        .st1{opacity:0.55;fill:#FFFFFF;enable-background:new    ;}
+                        .st2{fill:#0095DA;}
+                        .st3{fill-rule:evenodd;clip-rule:evenodd;fill:#EDEDED;}
+                        .st4{fill:#282828;}
+                        .st5{font-family:'GothamPro-Medium';}
+                        .st6{font-size:10px;}
+                        .st7{letter-spacing:1;}
+                        .st8{font-family:'GothamPro-Bold';}
+                        .st9{font-size:14px;}
+                    </style>
+                    <g id="дом">
+                        
+                            <image style="overflow:visible;enable-background:new    ;" width="1662" height="716" xlink:href="../img/dom.jpg"  transform="matrix(1 0 0 1 0 1.682073e-05)">
+                        </image>
+                    </g>
+                    <g id="hous_left">
+                        <g class="floor on" id="floor_1">
+                            <polygon id="hover" class="st0" points="106.7,544.6 106.7,545.1 129.3,545.1 129.3,578.8 106.7,578.8 106.7,603.9 129.3,603.9 
+                                129.3,604.2 655.3,604.2 655.3,544.6 		"/>
+                            <polygon id="normal" class="st1" points="106.7,544.6 106.7,545.1 129.3,545.1 129.3,578.8 106.7,578.8 106.7,603.9 129.3,603.9 
+                                129.3,604.2 655.3,604.2 655.3,544.6 		"/>
+                            <g class="popu" id="_x32__2_">
+                                <g id="forma_14_">
+                                    <g id="forma_15_">
+                                        <path id="Прямоугольник_7_копия_7_" class="st2" d="M509.3,471.9L509.3,471.9c0.5,0,0.9,0.5,0.9,1.2V665
+                                            c0,0.7-0.4,1.2-0.9,1.2l0,0c-0.5,0-0.9-0.5-0.9-1.2V473.1C508.4,472.4,508.8,471.9,509.3,471.9z"/>
+                                        <path class="st3" d="M498.5,569l11.8-11.8v-82.3c0-1.6,1.4-3,3-3h139c1.7,0,3,1.3,3,3v188.3c0,1.7-1.3,3-3,3h-139
+                                            c-1.7,0-3-1.3-3-3v-82.3L498.5,569z"/>
+                                    </g>
+                                </g>
+                                <g id="text_7_">
+                                    <text transform="matrix(1 0 0 1 556.4023 563.6784)" class="st4 st5 st6 st7">КВАРТИР</text>
+                                    <text transform="matrix(1 0 0 1 576.8854 580.4785)" class="st2 st8 st9">14</text>
+                                    <text transform="matrix(1 0 0 1 547.2677 619.7322)" class="st4 st5 st6 st7">В ПРОДАЖЕ</text>
+                                    <text transform="matrix(1 0 0 1 580.2523 636.5322)" class="st2 st8 st9">5</text>
+                                    <text transform="matrix(1 0 0 1 567.0726 507.6249)" class="st4 st5 st6 st7">ЭТАЖ</text>
+                                    <text transform="matrix(1 0 0 1 580.2523 524.4249)" class="st2 st8 st9">1</text>
+                                </g>
+                            </g>
+                        </g>
+                        <g class="floor" id="floor_2">
+                            <polygon id="hover_1_" class="st0" points="129.3,518.2 128,518.2 106.7,518.2 106.7,544.6 655.3,544.6 655.3,485 129.3,485 		"/>
+                            <polygon id="normal_1_" class="st1" points="129.3,518.2 128,518.2 106.7,518.2 106.7,544.6 655.3,544.6 655.3,485 129.3,485 		
+                                "/>
+                            <g class="popu" id="_x32__1_">
+                                <g id="forma_12_">
+                                    <g id="forma_13_">
+                                        <path id="Прямоугольник_7_копия_6_" class="st2" d="M416.8,418.8v191.9c0,0.7-0.4,1.2-0.9,1.2l0,0
+                                            c-0.5,0-0.9-0.5-0.9-1.2V418.8c0-0.7,0.4-1.2,0.9-1.2l0,0C416.4,417.6,416.8,418.1,416.8,418.8z"/>
+                                        <path class="st3" d="M426.8,514.7l-11.8-11.8v-82.3c0-1.6-1.4-3-3-3h-139c-1.7,0-3,1.3-3,3v188.3c0,1.7,1.3,3,3,3h139
+                                            c1.7,0,3-1.3,3-3v-82.3L426.8,514.7z"/>
+                                    </g>
+                                </g>
+                                <g id="text_6_">
+                                    <text transform="matrix(1 0 0 1 314.1463 509.3826)" class="st4 st5 st6 st7">КВАРТИР</text>
+                                    <text transform="matrix(1 0 0 1 334.6294 526.1826)" class="st2 st8 st9">14</text>
+                                    <text transform="matrix(1 0 0 1 305.0117 565.4364)" class="st4 st5 st6 st7">В ПРОДАЖЕ</text>
+                                    <text transform="matrix(1 0 0 1 337.9964 582.2364)" class="st2 st8 st9">5</text>
+                                    <text transform="matrix(1 0 0 1 324.8166 453.3291)" class="st4 st5 st6 st7">ЭТАЖ</text>
+                                    <text transform="matrix(1 0 0 1 337.9964 470.1291)" class="st2 st8 st9">2</text>
+                                </g>
+                            </g>
+                        </g>
+                        <g class="floor" id="floor_3">
+                            <polygon id="hover_3_" class="st0" points="129.3,457.6 106.7,457.6 106.7,485 129.3,485 655.3,485 655.3,469 681.7,469 
+                                681.7,425.5 129.3,425.5 		"/>
+                            <polygon id="normal_2_" class="st1" points="129.3,457.6 106.7,457.6 106.7,485 129.3,485 655.3,485 655.3,469 681.7,469 
+                                681.7,425.5 129.3,425.5 		"/>
+                            <g class="popu" id="_x33__1_">
+                                <g id="forma_10_">
+                                    <g id="forma_11_">
+                                        <path id="Прямоугольник_7_копия_5_" class="st2" d="M221,460.3h143.2c0.5,0,0.9,0.4,0.9,0.9l0,0
+                                            c0,0.5-0.4,0.9-0.9,0.9H221c-0.5,0-0.9-0.4-0.9-0.9l0,0C220.1,460.7,220.5,460.3,221,460.3z"/>
+                                        <path class="st3" d="M362.1,462.1h-58.3l-10.7-10.7l-10.7,10.7h-59.3c-1.7,0-3,1.3-3,3v188.3c0,1.7,1.3,3,3,3h139
+                                            c1.7,0,3-1.3,3-3V465.1C365.1,463.5,363.7,462.1,362.1,462.1z"/>
+                                    </g>
+                                </g>
+                                <g id="text_5_">
+                                    <text transform="matrix(1 0 0 1 264.326 554.1871)" class="st4 st5 st6 st7">КВАРТИР</text>
+                                    <text transform="matrix(1 0 0 1 284.8091 570.9872)" class="st2 st8 st9">14</text>
+                                    <text transform="matrix(1 0 0 1 255.1914 610.2409)" class="st4 st5 st6 st7">В ПРОДАЖЕ</text>
+                                    <text transform="matrix(1 0 0 1 288.1761 627.0409)" class="st2 st8 st9">5</text>
+                                    <text transform="matrix(1 0 0 1 274.9963 498.1336)" class="st4 st5 st6 st7">ЭТАЖ</text>
+                                    <text transform="matrix(1 0 0 1 288.1761 514.9337)" class="st2 st8 st9">3</text>
+                                </g>
+                            </g>
+                        </g>
+                        <g class="floor" id="floor_4">
+                            <polygon id="hover_2_" class="st0" points="129.3,371.5 129.3,400.1 106.7,400.1 106.7,424.2 129.3,424.2 129.3,425.5 
+                                681.7,425.5 681.7,365.9 129.3,365.9 		"/>
+                            <polygon id="normal_3_" class="st1" points="129.3,371.5 129.3,400.1 106.7,400.1 106.7,424.2 129.3,424.2 129.3,425.5 
+                                681.7,425.5 681.7,365.9 129.3,365.9 		"/>
+                            <g class="popu" id="_x34__1_">
+                                <g id="forma_8_">
+                                    <g id="forma_9_">
+                                        <path id="Прямоугольник_7_копия_4_" class="st2" d="M423.5,397.2h143.2c0.5,0,0.9,0.4,0.9,0.9l0,0
+                                            c0,0.5-0.4,0.9-0.9,0.9H423.5c-0.5,0-0.9-0.4-0.9-0.9l0,0C422.6,397.6,423,397.2,423.5,397.2z"/>
+                                        <path class="st3" d="M564.6,399h-58.3l-10.7-10.7L484.9,399h-59.3c-1.7,0-3,1.3-3,3v188.3c0,1.7,1.3,3,3,3h139c1.7,0,3-1.3,3-3
+                                            V402C567.6,400.4,566.2,399,564.6,399z"/>
+                                    </g>
+                                </g>
+                                <g id="text_4_">
+                                    <text transform="matrix(1 0 0 1 466.759 491.1223)" class="st4 st5 st6 st7">КВАРТИР</text>
+                                    <text transform="matrix(1 0 0 1 487.2421 507.9223)" class="st2 st8 st9">14</text>
+                                    <text transform="matrix(1 0 0 1 457.6244 547.1761)" class="st4 st5 st6 st7">В ПРОДАЖЕ</text>
+                                    <text transform="matrix(1 0 0 1 490.6091 563.9761)" class="st2 st8 st9">5</text>
+                                    <text transform="matrix(1 0 0 1 477.4293 435.0688)" class="st4 st5 st6 st7">ЭТАЖ</text>
+                                    <text transform="matrix(1 0 0 1 490.6091 451.8687)" class="st2 st8 st9">4</text>
+                                </g>
+                            </g>
+                        </g>
+                        <g class="floor" id="floor_5">
+                            <polygon id="hover_4_" class="st0" points="129.3,340 106.7,340 106.7,365.6 129.3,365.6 129.3,365.9 681.7,365.9 681.7,307.4 
+                                129.3,307.4 		"/>
+                            <polygon id="normal_5_" class="st1" points="129.3,340 106.7,340 106.7,365.6 129.3,365.6 129.3,365.9 681.7,365.9 681.7,307.4 
+                                129.3,307.4 		"/>
+                            <g class="popu" id="_x35__1_">
+                                <g id="forma_6_">
+                                    <g id="forma_7_">
+                                        <path id="Прямоугольник_7_копия_3_" class="st2" d="M292.2,335.3h143.2c0.5,0,0.9,0.4,0.9,0.9l0,0
+                                            c0,0.5-0.4,0.9-0.9,0.9H292.2c-0.5,0-0.9-0.4-0.9-0.9l0,0C291.3,335.7,291.7,335.3,292.2,335.3z"/>
+                                        <path class="st3" d="M433.3,337.1H375l-10.7-10.7l-10.7,10.7h-59.3c-1.7,0-3,1.3-3,3v188.3c0,1.7,1.3,3,3,3h139
+                                            c1.7,0,3-1.3,3-3V340.1C436.3,338.5,434.9,337.1,433.3,337.1z"/>
+                                    </g>
+                                </g>
+                                <g id="text_3_">
+                                    <text transform="matrix(1 0 0 1 335.5162 429.2631)" class="st4 st5 st6 st7">КВАРТИР</text>
+                                    <text transform="matrix(1 0 0 1 355.9993 446.0631)" class="st2 st8 st9">14</text>
+                                    <text transform="matrix(1 0 0 1 326.3816 485.3169)" class="st4 st5 st6 st7">В ПРОДАЖЕ</text>
+                                    <text transform="matrix(1 0 0 1 359.3663 502.1169)" class="st2 st8 st9">5</text>
+                                    <text transform="matrix(1 0 0 1 346.1865 373.2096)" class="st4 st5 st6 st7">ЭТАЖ</text>
+                                    <text transform="matrix(1 0 0 1 359.3663 390.0096)" class="st2 st8 st9">5</text>
+                                </g>
+                            </g>
+                        </g>
+                        <g class="floor" id="floor_6">
+                            <polygon id="hover_5_" class="st0" points="129.3,255.6 129.3,279.9 106.7,279.9 106.7,306 129.3,306 129.3,307.4 681.7,307.4 
+                                681.7,246.7 129.3,246.7 		"/>
+                            <polygon id="normal_4_" class="st1" points="129.3,255.6 129.3,279.9 106.7,279.9 106.7,306 129.3,306 129.3,307.4 681.7,307.4 
+                                681.7,246.7 129.3,246.7 		"/>
+                            <g class="popu" id="_x36__1_">
+                                <g id="forma_4_">
+                                    <g id="forma_5_">
+                                        <path id="Прямоугольник_7_копия_2_" class="st2" d="M437.2,274.7h143.2c0.5,0,0.9,0.4,0.9,0.9l0,0
+                                            c0,0.5-0.4,0.9-0.9,0.9H437.2c-0.5,0-0.9-0.4-0.9-0.9l0,0C436.3,275.1,436.7,274.7,437.2,274.7z"/>
+                                        <path class="st3" d="M578.3,276.5H520l-10.7-10.7l-10.7,10.7h-59.3c-1.7,0-3,1.3-3,3v188.3c0,1.7,1.3,3,3,3h139c1.7,0,3-1.3,3-3
+                                            V279.5C581.3,277.9,579.9,276.5,578.3,276.5z"/>
+                                    </g>
+                                </g>
+                                <g id="text_2_">
+                                    <text transform="matrix(1 0 0 1 480.5162 368.5686)" class="st4 st5 st6 st7">КВАРТИР</text>
+                                    <text transform="matrix(1 0 0 1 500.9993 385.3686)" class="st2 st8 st9">14</text>
+                                    <text transform="matrix(1 0 0 1 471.3816 424.6224)" class="st4 st5 st6 st7">В ПРОДАЖЕ</text>
+                                    <text transform="matrix(1 0 0 1 504.3663 441.4224)" class="st2 st8 st9">5</text>
+                                    <text transform="matrix(1 0 0 1 491.1865 312.5151)" class="st4 st5 st6 st7">ЭТАЖ</text>
+                                    <text transform="matrix(1 0 0 1 504.3663 329.3151)" class="st2 st8 st9">6</text>
+                                </g>
+                            </g>
+                        </g>
+                        <g class="floor" id="floor_7">
+                            <polygon id="hover_6_" class="st0" points="106.7,186.4 129.3,186.4 129.3,219.8 106.7,219.8 106.7,246.2 129.3,246.2 
+                                129.3,246.7 681.7,246.7 681.7,186 106.7,186 		"/>
+                            <polygon id="normal_6_" class="st1" points="106.7,186.4 129.3,186.4 129.3,219.8 106.7,219.8 106.7,246.2 129.3,246.2 
+                                129.3,246.7 681.7,246.7 681.7,186 106.7,186 		"/>
+                            <g class="popu" id="_x37__1_">
+                                <g id="forma_2_">
+                                    <g id="forma_3_">
+                                        <path id="Прямоугольник_7_копия_1_" class="st2" d="M263,227.9h143.2c0.5,0,0.9,0.4,0.9,0.9l0,0
+                                            c0,0.5-0.4,0.9-0.9,0.9H263c-0.5,0-0.9-0.4-0.9-0.9l0,0C262.1,228.3,262.5,227.9,263,227.9z"/>
+                                        <path class="st3" d="M404.1,229.7h-58.3L335.1,219l-10.7,10.7h-59.3c-1.7,0-3,1.3-3,3V421c0,1.7,1.3,3,3,3h139c1.7,0,3-1.3,3-3
+                                            V232.7C407.1,231.1,405.7,229.7,404.1,229.7z"/>
+                                    </g>
+                                </g>
+                                <g id="text_1_">
+                                    <text transform="matrix(1 0 0 1 306.3357 321.8067)" class="st4 st5 st6 st7">КВАРТИР</text>
+                                    <text transform="matrix(1 0 0 1 326.8188 338.6067)" class="st2 st8 st9">14</text>
+                                    <text transform="matrix(1 0 0 1 297.2011 377.8605)" class="st4 st5 st6 st7">В ПРОДАЖЕ</text>
+                                    <text transform="matrix(1 0 0 1 330.1858 394.6605)" class="st2 st8 st9">5</text>
+                                    <text transform="matrix(1 0 0 1 317.006 265.7532)" class="st4 st5 st6 st7">ЭТАЖ</text>
+                                    <text transform="matrix(1 0 0 1 330.1858 282.5532)" class="st2 st8 st9">7</text>
+                                </g>
+                            </g>
+                        </g>
+                        <g class="floor" id="floor_8">
+                            <polygon id="hover_7_" class="st0" points="103.4,126.8 129.3,126.8 129.3,160.3 106.7,160.3 106.7,186 681.7,186 681.7,126.5 
+                                103.4,126.5 		"/>
+                            <polygon id="normal_7_" class="st1" points="103.4,126.8 129.3,126.8 129.3,160.3 106.7,160.3 106.7,186 681.7,186 681.7,126.5 
+                                103.4,126.5 		"/>
+                            <g class="popu" id="_x38__1_">
+                                <g id="forma_1_">
+                                    <g id="forma">
+                                        <path id="Прямоугольник_7_копия" class="st2" d="M418.4,168.6h143.2c0.5,0,0.9,0.4,0.9,0.9l0,0
+                                            c0,0.5-0.4,0.9-0.9,0.9H418.4c-0.5,0-0.9-0.4-0.9-0.9l0,0C417.5,169,417.9,168.6,418.4,168.6z"/>
+                                        <path class="st3" d="M559.5,170.4h-58.3l-10.7-10.7l-10.7,10.7h-59.3c-1.7,0-3,1.3-3,3v188.3c0,1.7,1.3,3,3,3h139
+                                            c1.7,0,3-1.3,3-3V173.4C562.5,171.8,561.1,170.4,559.5,170.4z"/>
+                                    </g>
+                                </g>
+                                <g id="text">
+                                    <text transform="matrix(1 0 0 1 461.7063 262.491)" class="st4 st5 st6 st7">КВАРТИР</text>
+                                    <text transform="matrix(1 0 0 1 482.1894 279.291)" class="st2 st8 st9">14</text>
+                                    <text transform="matrix(1 0 0 1 452.5717 318.5448)" class="st4 st5 st6 st7">В ПРОДАЖЕ</text>
+                                    <text transform="matrix(1 0 0 1 485.5564 335.3448)" class="st2 st8 st9">5</text>
+                                    <text transform="matrix(1 0 0 1 472.3766 206.4375)" class="st4 st5 st6 st7">ЭТАЖ</text>
+                                    <text transform="matrix(1 0 0 1 485.5564 223.2375)" class="st2 st8 st9">8</text>
+                                </g>
+                            </g>
+                        </g>
+                        <g class="floor" id="floor_9">
+                            <polygon id="hover_8_" class="st0" points="129.3,100.7 103.4,100.7 103.4,126.5 681.7,126.5 681.7,119.5 695.2,111.3 690.8,97.1 
+                                695.2,96.5 686.2,67.1 88,67.1 129.3,92.8 		"/>
+                            <polygon id="normal_8_" class="st1" points="129.3,100.7 103.4,100.7 103.4,126.5 681.7,126.5 681.7,119.5 695.2,111.3 
+                                690.8,97.1 695.2,96.5 686.2,67.1 88,67.1 129.3,92.8 		"/>
+                            <g class="popu" id="_x39__1_">
+                                <g id="forma_16_">
+                                    <g id="forma_17_">
+                                        <path id="Прямоугольник_7_копия_8_" class="st2" d="M221.9,105.4h143.2c0.5,0,0.9,0.4,0.9,0.9l0,0
+                                            c0,0.5-0.4,0.9-0.9,0.9H221.9c-0.5,0-0.9-0.4-0.9-0.9l0,0C221,105.8,221.4,105.4,221.9,105.4z"/>
+                                        <path class="st3" d="M363,107.2h-58.3L294,96.5l-10.7,10.7H224c-1.7,0-3,1.3-3,3v188.3c0,1.7,1.3,3,3,3h139c1.7,0,3-1.3,3-3
+                                            V110.2C366,108.6,364.6,107.2,363,107.2z"/>
+                                    </g>
+                                </g>
+                                <g id="text_8_">
+                                    <text transform="matrix(1 0 0 1 265.2133 199.3023)" class="st4 st5 st6 st7">КВАРТИР</text>
+                                    <text transform="matrix(1 0 0 1 285.6965 216.1023)" class="st2 st8 st9">14</text>
+                                    <text transform="matrix(1 0 0 1 256.0788 255.3561)" class="st4 st5 st6 st7">В ПРОДАЖЕ</text>
+                                    <text transform="matrix(1 0 0 1 289.0634 272.1561)" class="st2 st8 st9">5</text>
+                                    <text transform="matrix(1 0 0 1 275.8837 143.2487)" class="st4 st5 st6 st7">ЭТАЖ</text>
+                                    <text transform="matrix(1 0 0 1 289.0634 160.0488)" class="st2 st8 st9">9</text>
+                                </g>
+                            </g>
+                        </g>
+                        <g class="floor" id="floor_10">
+                            <polygon id="hover_9_" class="st0" points="678.6,42.6 678.6,40.8 671.4,40.8 656.6,19.3 579.9,19.3 578.3,22.5 565.9,22.5 
+                                565.9,19.3 487.3,19.3 485.3,22.9 477,22.9 477,19.3 399.3,19.3 397.3,22.9 385.7,22.9 385.7,19.3 308.3,19.3 305.6,22.8 
+                                295.2,22.8 295.2,19.3 217.1,19.3 214.6,21.9 203.6,21.9 203.6,19.3 124.7,19.3 111.7,37.1 82.8,37.1 82.8,40.6 69.4,40.6 
+                                77.8,51.8 77.8,58.1 73.5,58.1 87.9,67.1 686.1,67.1 		"/>
+                            <polygon id="normal_9_" class="st1" points="678.6,42.6 678.6,40.8 671.4,40.8 656.6,19.3 579.9,19.3 578.3,22.5 565.9,22.5 
+                                565.9,19.3 487.3,19.3 485.3,22.9 477,22.9 477,19.3 399.3,19.3 397.3,22.9 385.7,22.9 385.7,19.3 308.3,19.3 305.6,22.8 
+                                295.2,22.8 295.2,19.3 217.1,19.3 214.6,21.9 203.6,21.9 203.6,19.3 124.7,19.3 111.7,37.1 82.8,37.1 82.8,40.6 69.4,40.6 
+                                77.8,51.8 77.8,58.1 73.5,58.1 87.9,67.1 686.1,67.1 		"/>
+                            <g>
+                                <g class="popu" id="_x31_0">
+                                    <g id="forma_18_">
+                                        <g id="forma_19_">
+                                            <path id="Прямоугольник_7_копия_9_" class="st2" d="M509.7,41.8h143.2c0.5,0,0.9,0.4,0.9,0.9l0,0
+                                                c0,0.5-0.4,0.9-0.9,0.9H509.7c-0.5,0-0.9-0.4-0.9-0.9l0,0C508.8,42.2,509.2,41.8,509.7,41.8z"/>
+                                            <path class="st3" d="M650.8,43.6h-58.3l-10.7-10.7l-10.7,10.7h-59.3c-1.7,0-3,1.3-3,3v188.3c0,1.7,1.3,3,3,3h139
+                                                c1.7,0,3-1.3,3-3V46.6C653.8,45,652.4,43.6,650.8,43.6z"/>
+                                        </g>
+                                    </g>
+                                    <g id="text_9_">
+                                        <text transform="matrix(1 0 0 1 553.0499 135.7221)" class="st4 st5 st6 st7">КВАРТИР</text>
+                                        <text transform="matrix(1 0 0 1 573.533 152.5221)" class="st2 st8 st9">14</text>
+                                        <text transform="matrix(1 0 0 1 543.9151 191.7759)" class="st4 st5 st6 st7">В ПРОДАЖЕ</text>
+                                        <text transform="matrix(1 0 0 1 576.9 208.5759)" class="st2 st8 st9">5</text>
+                                        <text transform="matrix(1 0 0 1 563.7198 79.6686)" class="st4 st5 st6 st7">ЭТАЖ</text>
+                                        <text transform="matrix(1 0 0 1 573.2458 96.4686)" class="st2 st8 st9">10</text>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="hous_right">
+                        <g class="floor" id="floor_1_1_">
+                            <polygon id="hover_17_" class="st0" points="1601.4,544.6 1601.4,545.1 1578.8,545.1 1578.8,578.8 1601.4,578.8 1601.4,603.9 
+                                1578.8,603.9 1578.8,604.2 1052.7,604.2 1052.7,544.6 		"/>
+                            <polygon id="normal_10_" class="st1" points="1601.4,544.6 1601.4,545.1 1578.8,545.1 1578.8,578.8 1601.4,578.8 1601.4,603.9 
+                                1578.8,603.9 1578.8,604.2 1052.7,604.2 1052.7,544.6 		"/>
+                            <g class="popu" id="_x32__3_">
+                                <g id="forma_20_">
+                                    <g id="forma_21_">
+                                        <path id="Прямоугольник_7_копия_10_" class="st2" d="M1124.2,481.5v191.9c0,0.7-0.4,1.2-0.9,1.2l0,0
+                                            c-0.5,0-0.9-0.5-0.9-1.2V481.5c0-0.7,0.4-1.2,0.9-1.2l0,0C1123.8,480.3,1124.2,480.8,1124.2,481.5z"/>
+                                        <path class="st3" d="M1134.2,577.4l-11.8-11.8v-82.3c0-1.6-1.4-3-3-3h-139c-1.7,0-3,1.3-3,3v188.3c0,1.7,1.3,3,3,3h139
+                                            c1.7,0,3-1.3,3-3v-82.3L1134.2,577.4z"/>
+                                    </g>
+                                </g>
+                                <g id="text_10_">
+                                    <text transform="matrix(1 0 0 1 1023.0181 572.0582)" class="st4 st5 st6 st7">КВАРТИР</text>
+                                    <text transform="matrix(1 0 0 1 1043.5005 588.8583)" class="st2 st8 st9">14</text>
+                                    <text transform="matrix(1 0 0 1 1013.8833 628.112)" class="st4 st5 st6 st7">В ПРОДАЖЕ</text>
+                                    <text transform="matrix(1 0 0 1 1046.8677 644.912)" class="st2 st8 st9">5</text>
+                                    <text transform="matrix(1 0 0 1 1033.688 516.0048)" class="st4 st5 st6 st7">ЭТАЖ</text>
+                                    <text transform="matrix(1 0 0 1 1046.8677 532.8047)" class="st2 st8 st9">1</text>
+                                </g>
+                            </g>
+                        </g>
+                        <g class="floor" id="floor_2_1_">
+                            <polygon id="hover_16_" class="st0" points="1578.8,518.2 1580.1,518.2 1601.4,518.2 1601.4,544.6 1052.7,544.6 1052.7,485 
+                                1578.8,485 		"/>
+                            <polygon id="normal_19_" class="st1" points="1578.8,518.2 1580.1,518.2 1601.4,518.2 1601.4,544.6 1052.7,544.6 1052.7,485 
+                                1578.8,485 		"/>
+                            <g class="popu" id="_x32__4_">
+                                <g id="forma_22_">
+                                    <g id="forma_23_">
+                                        <path id="Прямоугольник_7_копия_11_" class="st2" d="M1292.8,417.6L1292.8,417.6c0.5,0,0.9,0.5,0.9,1.2
+                                            v191.9c0,0.7-0.4,1.2-0.9,1.2l0,0c-0.5,0-0.9-0.5-0.9-1.2V418.8C1291.9,418.1,1292.3,417.6,1292.8,417.6z"/>
+                                        <path class="st3" d="M1282,514.7l11.8-11.8v-82.3c0-1.6,1.4-3,3-3h139c1.7,0,3,1.3,3,3v188.3c0,1.7-1.3,3-3,3h-139
+                                            c-1.7,0-3-1.3-3-3v-82.3L1282,514.7z"/>
+                                    </g>
+                                </g>
+                                <g id="text_11_">
+                                    <text transform="matrix(1 0 0 1 1339.1025 509.3824)" class="st4 st5 st6 st7">КВАРТИР</text>
+                                    <text transform="matrix(1 0 0 1 1359.5869 526.1824)" class="st2 st8 st9">14</text>
+                                    <text transform="matrix(1 0 0 1 1329.9678 565.4362)" class="st4 st5 st6 st7">В ПРОДАЖЕ</text>
+                                    <text transform="matrix(1 0 0 1 1362.9541 582.2362)" class="st2 st8 st9">5</text>
+                                    <text transform="matrix(1 0 0 1 1349.7725 453.3289)" class="st4 st5 st6 st7">ЭТАЖ</text>
+                                    <text transform="matrix(1 0 0 1 1362.9541 470.1289)" class="st2 st8 st9">2</text>
+                                </g>
+                            </g>
+                        </g>
+                        <g class="floor" id="floor_3_1_">
+                            <polygon id="hover_19_" class="st0" points="1578.8,457.6 1601.4,457.6 1601.4,485 1578.8,485 1052.7,485 1052.7,469 1026.4,469 
+                                1026.4,425.5 1578.8,425.5 		"/>
+                            <polygon id="normal_18_" class="st1" points="1578.8,457.6 1601.4,457.6 1601.4,485 1578.8,485 1052.7,485 1052.7,469 1026.4,469 
+                                1026.4,425.5 1578.8,425.5 		"/>
+                            <g class="popu" id="_x33__2_">
+                                <g id="forma_24_">
+                                    <g id="forma_25_">
+                                        <path id="Прямоугольник_7_копия_12_" class="st2" d="M1488,461.2L1488,461.2c0,0.5-0.4,0.9-0.9,0.9h-143.2
+                                            c-0.5,0-0.9-0.4-0.9-0.9l0,0c0-0.5,0.4-0.9,0.9-0.9h143.2C1487.6,460.3,1488,460.7,1488,461.2z"/>
+                                        <path class="st3" d="M1343,465.1v188.3c0,1.7,1.3,3,3,3h139c1.7,0,3-1.3,3-3V465.1c0-1.7-1.3-3-3-3h-59.3l-10.7-10.7
+                                            l-10.7,10.7H1346C1344.4,462.1,1343,463.5,1343,465.1z"/>
+                                    </g>
+                                </g>
+                                <g id="text_12_">
+                                    <text transform="matrix(1 0 0 1 1387.2214 554.1871)" class="st4 st5 st6 st7">КВАРТИР</text>
+                                    <text transform="matrix(1 0 0 1 1407.7058 570.9872)" class="st2 st8 st9">14</text>
+                                    <text transform="matrix(1 0 0 1 1378.0867 610.2409)" class="st4 st5 st6 st7">В ПРОДАЖЕ</text>
+                                    <text transform="matrix(1 0 0 1 1411.073 627.0409)" class="st2 st8 st9">5</text>
+                                    <text transform="matrix(1 0 0 1 1397.8933 498.1336)" class="st4 st5 st6 st7">ЭТАЖ</text>
+                                    <text transform="matrix(1 0 0 1 1411.073 514.9337)" class="st2 st8 st9">3</text>
+                                </g>
+                            </g>
+                        </g>
+                        <g class="floor" id="floor_4_1_">
+                            <polygon id="hover_18_" class="st0" points="1578.8,371.5 1578.8,400.1 1601.4,400.1 1601.4,424.2 1578.8,424.2 1578.8,425.5 
+                                1026.4,425.5 1026.4,365.9 1578.8,365.9 		"/>
+                            <polygon id="normal_17_" class="st1" points="1578.8,371.5 1578.8,400.1 1601.4,400.1 1601.4,424.2 1578.8,424.2 1578.8,425.5 
+                                1026.4,425.5 1026.4,365.9 1578.8,365.9 		"/>
+                            <g class="popu" id="_x34__2_">
+                                <g id="forma_26_">
+                                    <g id="forma_27_">
+                                        <path id="Прямоугольник_7_копия_13_" class="st2" d="M1285.5,398.1L1285.5,398.1c0,0.5-0.4,0.9-0.9,0.9
+                                            h-143.2c-0.5,0-0.9-0.4-0.9-0.9l0,0c0-0.5,0.4-0.9,0.9-0.9h143.2C1285.1,397.2,1285.5,397.6,1285.5,398.1z"/>
+                                        <path class="st3" d="M1140.5,402v188.3c0,1.7,1.3,3,3,3h139c1.7,0,3-1.3,3-3V402c0-1.7-1.3-3-3-3h-59.3l-10.7-10.7l-10.7,10.7
+                                            h-58.3C1141.9,399,1140.5,400.4,1140.5,402z"/>
+                                    </g>
+                                </g>
+                                <g id="text_13_">
+                                    <text transform="matrix(1 0 0 1 1184.7786 491.1223)" class="st4 st5 st6 st7">КВАРТИР</text>
+                                    <text transform="matrix(1 0 0 1 1205.261 507.9223)" class="st2 st8 st9">14</text>
+                                    <text transform="matrix(1 0 0 1 1175.6438 547.1761)" class="st4 st5 st6 st7">В ПРОДАЖЕ</text>
+                                    <text transform="matrix(1 0 0 1 1208.6282 563.9761)" class="st2 st8 st9">5</text>
+                                    <text transform="matrix(1 0 0 1 1195.4485 435.0688)" class="st4 st5 st6 st7">ЭТАЖ</text>
+                                    <text transform="matrix(1 0 0 1 1208.6282 451.8687)" class="st2 st8 st9">4</text>
+                                </g>
+                            </g>
+                        </g>
+                        <g class="floor on" id="floor_5_1_">
+                            <polygon id="hover_15_" class="st0" points="1578.8,340 1601.4,340 1601.4,365.6 1578.8,365.6 1578.8,365.9 1026.4,365.9 
+                                1026.4,307.4 1578.8,307.4 		"/>
+                            <polygon id="normal_15_" class="st1" points="1578.8,340 1601.4,340 1601.4,365.6 1578.8,365.6 1578.8,365.9 1026.4,365.9 
+                                1026.4,307.4 1578.8,307.4 		"/>
+                            <g class="popu" id="_x35__2_">
+                                <g id="forma_28_">
+                                    <g id="forma_29_">
+                                        <path id="Прямоугольник_7_копия_14_" class="st2" d="M1418.2,336.2L1418.2,336.2c0,0.5-0.4,0.9-0.9,0.9
+                                            h-143.2c-0.5,0-0.9-0.4-0.9-0.9l0,0c0-0.5,0.4-0.9,0.9-0.9h143.2C1417.8,335.3,1418.2,335.7,1418.2,336.2z"/>
+                                        <path class="st3" d="M1273.2,340.1v188.3c0,1.7,1.3,3,3,3h139c1.7,0,3-1.3,3-3V340.1c0-1.7-1.3-3-3-3h-59.3l-10.7-10.7
+                                            l-10.7,10.7h-58.3C1274.6,337.1,1273.2,338.5,1273.2,340.1z"/>
+                                    </g>
+                                </g>
+                                <g id="text_14_">
+                                    <text transform="matrix(1 0 0 1 1317.4257 429.2631)" class="st4 st5 st6 st7">КВАРТИР</text>
+                                    <text transform="matrix(1 0 0 1 1337.9081 446.0631)" class="st2 st8 st9">14</text>
+                                    <text transform="matrix(1 0 0 1 1308.2909 485.3169)" class="st4 st5 st6 st7">В ПРОДАЖЕ</text>
+                                    <text transform="matrix(1 0 0 1 1341.2753 502.1169)" class="st2 st8 st9">5</text>
+                                    <text transform="matrix(1 0 0 1 1328.0956 373.2096)" class="st4 st5 st6 st7">ЭТАЖ</text>
+                                    <text transform="matrix(1 0 0 1 1341.2753 390.0096)" class="st2 st8 st9">5</text>
+                                </g>
+                            </g>
+                        </g>
+                        <g class="floor" id="floor_6_1_">
+                            <polygon id="hover_14_" class="st0" points="1578.8,255.6 1578.8,279.9 1601.4,279.9 1601.4,306 1578.8,306 1578.8,307.4 
+                                1026.4,307.4 1026.4,246.7 1578.8,246.7 		"/>
+                            <polygon id="normal_16_" class="st1" points="1578.8,255.6 1578.8,279.9 1601.4,279.9 1601.4,306 1578.8,306 1578.8,307.4 
+                                1026.4,307.4 1026.4,246.7 1578.8,246.7 		"/>
+                            <g class="popu" id="_x36__2_">
+                                <g id="forma_30_">
+                                    <g id="forma_31_">
+                                        <path id="Прямоугольник_7_копия_15_" class="st2" d="M1272.8,275.6L1272.8,275.6c0,0.5-0.4,0.9-0.9,0.9
+                                            h-143.2c-0.5,0-0.9-0.4-0.9-0.9l0,0c0-0.5,0.4-0.9,0.9-0.9h143.2C1272.4,274.7,1272.8,275.1,1272.8,275.6z"/>
+                                        <path class="st3" d="M1127.8,279.5v188.3c0,1.7,1.3,3,3,3h139c1.7,0,3-1.3,3-3V279.5c0-1.7-1.3-3-3-3h-59.3l-10.7-10.7
+                                            l-10.7,10.7h-58.3C1129.2,276.5,1127.8,277.9,1127.8,279.5z"/>
+                                    </g>
+                                </g>
+                                <g id="text_15_">
+                                    <text transform="matrix(1 0 0 1 1172.0343 368.5686)" class="st4 st5 st6 st7">КВАРТИР</text>
+                                    <text transform="matrix(1 0 0 1 1192.5167 385.3686)" class="st2 st8 st9">14</text>
+                                    <text transform="matrix(1 0 0 1 1162.8995 424.6224)" class="st4 st5 st6 st7">В ПРОДАЖЕ</text>
+                                    <text transform="matrix(1 0 0 1 1195.8839 441.4224)" class="st2 st8 st9">5</text>
+                                    <text transform="matrix(1 0 0 1 1182.7042 312.5151)" class="st4 st5 st6 st7">ЭТАЖ</text>
+                                    <text transform="matrix(1 0 0 1 1195.8839 329.3151)" class="st2 st8 st9">6</text>
+                                </g>
+                            </g>
+                        </g>
+                        <g class="floor" id="floor_7_1_">
+                            <polygon id="hover_13_" class="st0" points="1601.4,186.4 1578.8,186.4 1578.8,219.8 1601.4,219.8 1601.4,246.2 1578.8,246.2 
+                                1578.8,246.7 1026.4,246.7 1026.4,186 1601.4,186 		"/>
+                            <polygon id="normal_14_" class="st1" points="1601.4,186.4 1578.8,186.4 1578.8,219.8 1601.4,219.8 1601.4,246.2 1578.8,246.2 
+                                1578.8,246.7 1026.4,246.7 1026.4,186 1601.4,186 		"/>
+                            <g class="popu" id="_x37__2_">
+                                <g id="forma_32_">
+                                    <g id="forma_33_">
+                                        <path id="Прямоугольник_7_копия_16_" class="st2" d="M1490.7,228.8L1490.7,228.8c0,0.5-0.4,0.9-0.9,0.9
+                                            h-143.2c-0.5,0-0.9-0.4-0.9-0.9l0,0c0-0.5,0.4-0.9,0.9-0.9h143.2C1490.3,227.9,1490.7,228.3,1490.7,228.8z"/>
+                                        <path class="st3" d="M1345.7,232.7V421c0,1.7,1.3,3,3,3h139c1.7,0,3-1.3,3-3V232.7c0-1.7-1.3-3-3-3h-59.3l-10.7-10.7
+                                            l-10.7,10.7h-58.3C1347.1,229.7,1345.7,231.1,1345.7,232.7z"/>
+                                    </g>
+                                </g>
+                                <g id="text_16_">
+                                    <text transform="matrix(1 0 0 1 1389.9258 321.8067)" class="st4 st5 st6 st7">КВАРТИР</text>
+                                    <text transform="matrix(1 0 0 1 1410.4082 338.6067)" class="st2 st8 st9">14</text>
+                                    <text transform="matrix(1 0 0 1 1380.791 377.8605)" class="st4 st5 st6 st7">В ПРОДАЖЕ</text>
+                                    <text transform="matrix(1 0 0 1 1413.7754 394.6605)" class="st2 st8 st9">5</text>
+                                    <text transform="matrix(1 0 0 1 1400.5957 265.7532)" class="st4 st5 st6 st7">ЭТАЖ</text>
+                                    <text transform="matrix(1 0 0 1 1413.7754 282.5532)" class="st2 st8 st9">7</text>
+                                </g>
+                            </g>
+                        </g>
+                        <g class="floor" id="floor_8_1_">
+                            <polygon id="hover_12_" class="st0" points="1604.6,126.8 1578.8,126.8 1578.8,160.3 1601.4,160.3 1601.4,186 1026.4,186 
+                                1026.4,126.5 1604.6,126.5 		"/>
+                            <polygon id="normal_13_" class="st1" points="1604.6,126.8 1578.8,126.8 1578.8,160.3 1601.4,160.3 1601.4,186 1026.4,186 
+                                1026.4,126.5 1604.6,126.5 		"/>
+                            <g class="popu" id="_x38__2_">
+                                <g id="forma_34_">
+                                    <g id="forma_35_">
+                                        <path id="Прямоугольник_7_копия_17_" class="st2" d="M1329.8,157.5L1329.8,157.5c0,0.5-0.4,0.9-0.9,0.9
+                                            h-143.2c-0.5,0-0.9-0.4-0.9-0.9l0,0c0-0.5,0.4-0.9,0.9-0.9h143.2C1329.4,156.6,1329.8,157,1329.8,157.5z"/>
+                                        <path class="st3" d="M1184.8,161.4v188.3c0,1.7,1.3,3,3,3h139c1.7,0,3-1.3,3-3V161.4c0-1.7-1.3-3-3-3h-59.3l-10.7-10.7
+                                            l-10.7,10.7h-58.3C1186.2,158.4,1184.8,159.8,1184.8,161.4z"/>
+                                    </g>
+                                </g>
+                                <g id="text_17_">
+                                    <text transform="matrix(1 0 0 1 1229.0188 250.491)" class="st4 st5 st6 st7">КВАРТИР</text>
+                                    <text transform="matrix(1 0 0 1 1249.5012 267.291)" class="st2 st8 st9">14</text>
+                                    <text transform="matrix(1 0 0 1 1219.884 306.5448)" class="st4 st5 st6 st7">В ПРОДАЖЕ</text>
+                                    <text transform="matrix(1 0 0 1 1252.8684 323.3448)" class="st2 st8 st9">5</text>
+                                    <text transform="matrix(1 0 0 1 1239.6887 194.4375)" class="st4 st5 st6 st7">ЭТАЖ</text>
+                                    <text transform="matrix(1 0 0 1 1252.8684 211.2375)" class="st2 st8 st9">8</text>
+                                </g>
+                            </g>
+                        </g>
+                        <g class="floor" id="floor_9_1_">
+                            <polygon id="hover_11_" class="st0" points="1578.9,100.7 1604.6,100.7 1604.6,126.5 1026.4,126.5 1026.4,111.8 1010.5,111.3 
+                                1017.2,97.1 1008.3,96.5 1021.9,67.1 1627.6,67.1 1578.9,95.4 		"/>
+                            <polygon id="normal_12_" class="st1" points="1578.9,100.7 1604.6,100.7 1604.6,126.5 1026.4,126.5 1026.4,111.8 1010.5,111.3 
+                                1017.2,97.1 1008.3,96.5 1021.9,67.1 1627.6,67.1 1578.9,95.4 		"/>
+                            <g class="popu" id="_x39__2_">
+                                <g id="forma_36_">
+                                    <g id="forma_37_">
+                                        <path id="Прямоугольник_7_копия_18_" class="st2" d="M1478.2,100.3L1478.2,100.3c0,0.5-0.4,0.9-0.9,0.9
+                                            h-143.2c-0.5,0-0.9-0.4-0.9-0.9l0,0c0-0.5,0.4-0.9,0.9-0.9h143.2C1477.8,99.4,1478.2,99.8,1478.2,100.3z"/>
+                                        <path class="st3" d="M1333.2,104.2v188.3c0,1.7,1.3,3,3,3h139c1.7,0,3-1.3,3-3V104.2c0-1.7-1.3-3-3-3h-59.3l-10.7-10.7
+                                            l-10.7,10.7h-58.3C1334.6,101.2,1333.2,102.6,1333.2,104.2z"/>
+                                    </g>
+                                </g>
+                                <g id="text_18_">
+                                    <text transform="matrix(1 0 0 1 1377.467 193.3023)" class="st4 st5 st6 st7">КВАРТИР</text>
+                                    <text transform="matrix(1 0 0 1 1397.9495 210.1023)" class="st2 st8 st9">14</text>
+                                    <text transform="matrix(1 0 0 1 1368.3323 249.3561)" class="st4 st5 st6 st7">В ПРОДАЖЕ</text>
+                                    <text transform="matrix(1 0 0 1 1401.3167 266.1561)" class="st2 st8 st9">5</text>
+                                    <text transform="matrix(1 0 0 1 1388.137 137.2487)" class="st4 st5 st6 st7">ЭТАЖ</text>
+                                    <text transform="matrix(1 0 0 1 1401.3167 154.0488)" class="st2 st8 st9">9</text>
+                                </g>
+                            </g>
+                        </g>
+                        <g class="floor" id="floor_10_1_">
+                            <polygon id="hover_10_" class="st0" points="1033.8,40.8 1036.6,40.8 1051.4,19.3 1128.1,19.3 1129.7,22.5 1142.1,22.5 
+                                1142.1,19.3 1220.7,19.3 1222.8,22.9 1231,22.9 1231,19.3 1308.7,19.3 1310.7,22.9 1322.3,22.9 1322.3,19.3 1399.7,19.3 
+                                1402.4,22.8 1412.8,22.8 1412.8,19.3 1490.9,19.3 1493.4,21.9 1504.4,21.9 1504.4,19.3 1583.4,19.3 1596.3,37.1 1625.2,37.1 
+                                1625.2,40.6 1643.6,40.6 1635.3,51.8 1635.3,58.1 1642,58.1 1627.6,67.1 1021.9,67.1 		"/>
+                            <polygon id="normal_11_" class="st1" points="1033.8,40.8 1036.6,40.8 1051.4,19.3 1128.1,19.3 1129.7,22.5 1142.1,22.5 
+                                1142.1,19.3 1220.7,19.3 1222.8,22.9 1231,22.9 1231,19.3 1308.7,19.3 1310.7,22.9 1322.3,22.9 1322.3,19.3 1399.7,19.3 
+                                1402.4,22.8 1412.8,22.8 1412.8,19.3 1490.9,19.3 1493.4,21.9 1504.4,21.9 1504.4,19.3 1583.4,19.3 1596.3,37.1 1625.2,37.1 
+                                1625.2,40.6 1643.6,40.6 1635.3,51.8 1635.3,58.1 1642,58.1 1627.6,67.1 1021.9,67.1 		"/>
+                            <g>
+                                <g class="popu" id="_x31_0_1_">
+                                    <g id="forma_38_">
+                                        <g id="forma_39_">
+                                            <path id="Прямоугольник_7_копия_19_" class="st2" d="M1244.5,42.7L1244.5,42.7c0,0.5-0.4,0.9-0.9,0.9
+                                                h-143.2c-0.5,0-0.9-0.4-0.9-0.9l0,0c0-0.5,0.4-0.9,0.9-0.9h143.2C1244.1,41.8,1244.5,42.2,1244.5,42.7z"/>
+                                            <path class="st3" d="M1099.5,46.6v188.3c0,1.7,1.3,3,3,3h139c1.7,0,3-1.3,3-3V46.6c0-1.7-1.3-3-3-3h-59.3l-10.7-10.7
+                                                l-10.7,10.7h-58.3C1100.9,43.6,1099.5,45,1099.5,46.6z"/>
+                                        </g>
+                                    </g>
+                                    <g id="text_19_">
+                                        <text transform="matrix(1 0 0 1 1143.7745 135.7221)" class="st4 st5 st6 st7">КВАРТИР</text>
+                                        <text transform="matrix(1 0 0 1 1164.2589 152.5221)" class="st2 st8 st9">14</text>
+                                        <text transform="matrix(1 0 0 1 1134.6398 191.7759)" class="st4 st5 st6 st7">В ПРОДАЖЕ</text>
+                                        <text transform="matrix(1 0 0 1 1167.6261 208.5759)" class="st2 st8 st9">5</text>
+                                        <text transform="matrix(1 0 0 1 1154.4445 79.6686)" class="st4 st5 st6 st7">ЭТАЖ</text>
+                                        <text transform="matrix(1 0 0 1 1163.9718 96.4686)" class="st2 st8 st9">10</text>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2020 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="close" unicode="&#xe800;" d="M157 824l816-816a92 92 0 0 0-130-130l-816 816a92 92 0 0 0 130 130z m688 0l-816-816a92 92 0 0 1 130-130l816 816a92 92 0 0 1-130 130z" horiz-adv-x="1004" />
+
+<glyph glyph-name="telegram" unicode="&#xe801;" d="M392 217l-16-232c23 0 34 10 46 22l111 106 230-168c42-24 72-11 83 39l151 707 0 0c13 62-22 87-64 72l-886-340c-61-24-60-58-11-73l227-70 527 329c25 17 47 8 28-9l-426-383z" horiz-adv-x="1000" />
+
+<glyph glyph-name="youtube" unicode="&#xe803;" d="M980 590c-12 43-46 77-89 88-78 22-391 22-391 22s-313 0-391-21c-42-11-77-46-88-89-21-78-21-240-21-240s0-163 21-241c11-43 45-76 88-88 79-21 391-21 391-21s313 0 391 20c43 12 77 45 88 88 21 79 21 241 21 241s1 163-20 241z m-580-390v299l261-150-261-149z" horiz-adv-x="1000" />
+
+<glyph glyph-name="menu" unicode="&#xe804;" d="M128 850h1066a83 83 0 0 0 0-167h-1066a83 83 0 0 0 0 167z m0-389h1066a83 83 0 1 0 0-167h-1066a83 83 0 1 0 0 167z m0-444h1066a83 83 0 0 0 0-167h-1066a83 83 0 0 0 0 167z" horiz-adv-x="1278" />
+
+<glyph glyph-name="twitter" unicode="&#xf099;" d="M904 622q-37-54-90-93 0-8 0-23 0-73-21-145t-64-139-103-117-144-82-181-30q-151 0-276 81 19-2 43-2 126 0 224 77-59 1-105 36t-64 89q19-3 34-3 24 0 48 6-63 13-104 62t-41 115v2q38-21 82-23-37 25-59 64t-22 86q0 49 25 91 68-83 164-133t208-55q-5 21-5 41 0 75 53 127t127 53q79 0 132-57 61 12 115 44-21-64-80-100 52 6 104 28z" horiz-adv-x="928.6" />
+</font>
+</defs>
+</svg>
