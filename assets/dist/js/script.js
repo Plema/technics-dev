@@ -5,10 +5,12 @@ function createFullpage() {
     if (fullPageCreated === false) {
         fullPageCreated = true;
         $('#fullpage').fullpage({
-            anchors: ['secondPage1', 'secondPage2', 'secondPage3', 'secondPage4', 'secondPage5'],
+            menu: '#menu',
             navigation: true,
+            scrollingSpeed: 1000,
             navigationPosition: 'right',
-        });
+            anchors: ['secondPage1', 'secondPage2', 'secondPage3', 'secondPage4', 'secondPage5'],
+        });       
     }
 }
 
@@ -20,6 +22,8 @@ if ($(window).width() <= 1023) {
 if ($(window).width() >= 1024) {
     createFullpage();
 }
+
+
 
 $(document).ready(function(){
 

@@ -27,7 +27,6 @@ ul,ol{
   margin: 0;
 }
 
-
 input[type="submit"] {
   -webkit-appearance: none;
   -moz-appearance: none;
@@ -59,11 +58,96 @@ ul li,ol li{
   position: relative;
 }
 
+.banner{
+  overflow: hidden;
+  position: relative;
+  .content{
+    z-index: 4;
+    position: relative;
+  }
+  .banner-left{
+    padding-top: 66px;
+    position: relative;
+    padding-bottom: 13px;
+    &::after{
+      content: '';
+      top: 0;
+      left: 50%;
+      z-index: -1;
+      width: 100vw;
+      height: 100%;
+      position: absolute;
+      background-color: #ededed;
+      transform: translate(-50%, 0);
+    }
+    img{
+      width: 305px;
+      margin: 0 auto;
+      display: block;
+      transform: translate(31px, 0);
+    }
+    .banner-title{
+      left: -4px;
+      z-index: 0;
+      bottom: -7px;
+      color: #ffffff;
+      font-size: 80px;
+      line-height: 56px;
+      position: absolute;
+      letter-spacing: 8px;
+      font-family: 'GothaProBla';
+    }
+  }
+  .banner-right{
+    position: relative;
+    padding-bottom: 15px;
+    &::before{
+      content: '';
+      left: 50%;
+      bottom: 0;
+      z-index: -1;
+      width: 100vw;
+      height: 100%;
+      position: absolute;
+      background-color: #ffffff;
+      transform: translate(-50%, 0);
+    }
+    img{
+      width: 295px;
+      display: block;
+      margin: 0 auto;
+      transform: translate(27px, -15px);
+    }
+    .banner-title{
+      top: 6px;
+      left: -4px;
+      z-index: 0;
+      color: #ededed;
+      font-size: 80px;
+      line-height: 56px;
+      position: absolute;
+      letter-spacing: 8px;
+      font-family: 'GothaProBla';
+    }
+  }
+}
+
 @media screen and (min-width: 768px) {
 
   .container {
     padding: 0;
     width: 648px;
+  }
+
+  .banner{
+    &::after {
+      width: 50%;
+      height: 100%;
+    }
+    &::before {
+      width: 50%;
+      height: 100%;
+    }
   }
 
 }
@@ -72,6 +156,37 @@ ul li,ol li{
 
   .container {
     width: 864px;
+  }
+
+  .banner{
+    height: auto;
+    &::after {
+      display: none;
+    }
+    &::before {
+      display: none;
+    }
+    .fp-tableCell{
+      position: relative;
+      &::after{
+        content: '';
+        top: 0;
+        left: 0;
+        width: 50%;
+        height: 100%;
+        position: absolute;
+        background-color: #ededed;
+      }
+      &::before{
+        content: '';
+        right: 0;
+        bottom: 0;
+        width: 50%;
+        height: 100%;
+        position: absolute;
+        background-color: #ffffff;
+      }
+    }
   }
 
 }
