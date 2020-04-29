@@ -23,11 +23,34 @@ if ($(window).width() >= 1024) {
     createFullpage();
 }
 
-
-
 $(document).ready(function(){
 
     $('.phone').mask('+7 (000) 000 00 00', {placeholder: "+7 (___) ___ __ __"});
+
+    var projectsSlider = $('.projects-slider .slider');
+
+    projectsSlider.on("init", function(event, slick){
+        $(".projects_count").html('0' + parseInt(slick.currentSlide + 1) + ' <i>/</i> <span>0' + slick.slideCount + '</span>');
+    });
+
+    projectsSlider.on("afterChange", function(event, slick, currentSlide){
+        $(".projects_count").html('0' + parseInt(slick.currentSlide + 1) + ' <i>/</i> <span>0' + slick.slideCount + '</span>');
+    });
+
+    projectsSlider.slick({
+        slidesToShow: 3,
+        slidesToScroll: 1,
+        nextArrow: '<button class="slick-arrow next"></button>',
+        prevArrow: '<button class="slick-arrow prev"></button>',
+    });
+
+    $('.slider-item').on('click', function(){
+        var projects = $(this).data('projects');
+        $('.slider-item').removeClass('active');
+        $('.projects-item').removeClass('active');
+        $(this).addClass('active');
+        $('.' + projects).addClass('active');
+    });
 
 });
 
