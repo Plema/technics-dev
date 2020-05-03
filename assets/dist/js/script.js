@@ -52,6 +52,32 @@ $(document).ready(function(){
         $('.' + projects).addClass('active');
     });
 
+    $('.partners-slider').slick({
+        rows: 2,
+        slidesToShow: 2,
+        slidesToScroll: 2,
+        nextArrow: '<button class="slick-arrow next"></button>',
+        prevArrow: '<button class="slick-arrow prev"></button>',
+        responsive: [
+            {
+              breakpoint: 768,
+              settings: {
+                rows: 1,
+                slidesToShow: 2,
+                slidesToScroll: 1
+              }
+            }
+        ]
+    });
+
+    $('.partners-item').on('click', function(){
+        var partners = $(this).data('partners');
+        $('.partners-item').removeClass('active');
+        $('.text-item').removeClass('active');
+        $(this).addClass('active');
+        $('.' + partners).addClass('active');
+    });
+
 });
 
 $(window).resize(function() {
