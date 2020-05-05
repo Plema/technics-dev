@@ -13,6 +13,16 @@
 
 <body>
 
+    <div class="thank-popup">
+        <span class="close-popup"></span>
+        <div class="thank-content">
+            <span class="close"><i class="icon-close"></i></span>
+            <h4>Благодарим за заявку!</h4>
+            <p>Менеджер свяжется с вами в ближайшее время</p>
+        </div>
+    </div>
+    <!-- Появитьса если будит класс active -->
+
     <header>
         <div class="container">
             <div class="header-content">
@@ -36,10 +46,10 @@
                 </div>
                 <div class="nav">
                     <ul class="menu" id="menu">
-                        <li><a class="menu-links" data-menuanchor="secondPage1" href="#secondPage1">Моторы</a></li>
-                        <li><a class="menu-links" data-menuanchor="secondPage2" href="#secondPage2">Проекты</a></li>
-                        <li><a class="menu-links" data-menuanchor="secondPage4" href="#secondPage4">Партнеры</a></li>
-                        <li><a class="menu-links" data-menuanchor="secondPage5" href="#secondPage5">Контакты</a></li>
+                        <li><a class="menu-links" data-class="banner" data-menuanchor="secondPage1" href="#secondPage1">Моторы</a></li>
+                        <li><a class="menu-links" data-class="projects" data-menuanchor="secondPage2" href="#secondPage2">Проекты</a></li>
+                        <li><a class="menu-links" data-class="partners" data-menuanchor="secondPage4" href="#secondPage4">Партнеры</a></li>
+                        <li><a class="menu-links" data-class="contacts" data-menuanchor="secondPage5" href="#secondPage5">Контакты</a></li>
                     </ul>
                     <span class="open-menu">
                     <span></span>
@@ -56,7 +66,16 @@
                     <div class="banner-left">
                         <span class="banner-title">МОТ</span>
                         <div class="content">
-                            <div class="info"><i>?</i></div>
+                            <div class="info-content">
+                                <div class="info">
+                                    <i class="info-click">?</i>
+                                </div>
+                                <div class="info-popup">
+                                    <i class="icon-close"></i>
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel
+                                        facilisis. </p>
+                                </div>
+                            </div>
                             <h5>Мотор.</h5>
                             <span class="nember">01</span>
                             <h4>EVD 40</h4>
@@ -67,7 +86,16 @@
                     <div class="banner-right">
                         <span class="banner-title">ОРЫ</span>
                         <div class="content">
-                            <div class="info"><i>?</i></div>
+                            <div class="info-content">
+                                <div class="info">
+                                    <i class="info-click">?</i>
+                                </div>
+                                <div class="info-popup">
+                                    <i class="icon-close"></i>
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel
+                                        facilisis. </p>
+                                </div>
+                            </div>
                             <h5>Мотор.</h5>
                             <span class="nember">02</span>
                             <h4>EVD 120</h4>
@@ -148,8 +176,8 @@
                     </div>
                     <img src="../img/solutions-img.gif" alt="">
                     <ul>
-                        <li>Инвертор</li>
-                        <li class="active">Редуктор</li>
+                        <li class="active">Инвертор</li>
+                        <li>Редуктор</li>
                         <li>Аккумуляторную батарею</li>
                         <li>Блок высокого напряжения</li>
                         <li>Селектор передач</li>
@@ -251,13 +279,80 @@
                 </div>
             </div>
         </div>
-        <div id="section4" class="section">
-            контакты
+        <div id="section4" class="contacts section">
+            <div class="container">
+                <div class="contacts-content">
+                    <span class="contacts-title">контакты</span>
+                    <div class="title">
+                        <h3>Контакты</h3>
+                    </div>
+                    <div class="contacts-tel">
+                        <ul class="tel">
+                            <li>
+                                <h5>Телефон</h5>
+                                <a href="tel:+7 495 150 12 44">+7 495 150 12 44</a>
+                            </li>
+                            <li>
+                                <h5>Почта</h5>
+                                <a href="mailto:info@ev-tech.me">info@ev-tech.me</a>
+                            </li>
+                            <li>
+                                <h5>Адрес</h5>
+                                <p>г.Москва, ул.Годовикова д.9, стр 1</p>
+                            </li>
+                        </ul>
+                        <ul class="social">
+                            <li><a href="javascript:void(0)"><i class="icon-telegram"></i></a></li>
+                            <li><a href="javascript:void(0)"><i class="icon-twitter"></i></a></li>
+                            <li><a href="javascript:void(0)"><i class="icon-youtube"></i></a></li>
+                        </ul>
+                    </div>
+                    <div class="feedback-map">
+                        <div class="feedback">
+                            <h4>Обратная связь</h4>
+                            <form action="">
+                                <div class="form-grup">
+                                    <input type="text" placeholder="Имя">
+                                    <span>ошибка</span>
+                                </div>
+                                <div class="form-grup error">
+                                    <input type="text" placeholder="E-mail">
+                                    <span>ошибка</span>
+                                </div>
+                                <div class="form-grup">
+                                    <textarea placeholder="Сообщение"></textarea>
+                                    <span>ошибка</span>
+                                </div>
+                                <button>Отправить</button>
+                            </form>
+                        </div>
+                        <div class="map">
+                            <img src="../img/map.png" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 
 
-
+    <footer>
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-left">
+                    <a href="javascript:void(0)" class="logo"><img src="../img/logo.png" alt=""></a>
+                    <a href="javascript:void(0)" class="research" target="_blank">Исследования осуществляются ООО Электротранспортные Технологии при грантовой поддержки "Фонд Сколково"</a>
+                </div>
+                <div class="footer-right">
+                    <a href="javascript:void(0)" class="logo-partner"><img src="../img/logo-partner.jpg" alt=""></a>
+                    <div>
+                        <p>Разработано в "<a href="http://plemyastudio.ru/" target="_blank">Студия Племя</a>"</p>
+                        <p>© 2020 г., ООО «EV Tech»</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
 
     <script src="../js/jquery.min.js"></script>
     <script src="../js/jquery.mask.min.js"></script>

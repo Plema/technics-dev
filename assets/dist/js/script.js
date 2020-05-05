@@ -1,3 +1,19 @@
+if ($(window).width() <= 1023) {
+
+    $(".menu").on("click","a", function (event) {
+        console.log(0);
+        event.preventDefault();
+        var id  = $(this).data('class');
+            console.log(id);
+        var top = $('.' + id).offset().top;
+            console.log(top);
+        $('body,html').animate({scrollTop: top}, 1500);
+        $('.open-menu').removeClass('active');
+        $('.menu').removeClass('active');
+    });
+
+}
+
 var fullPageCreated = false;
     createFullpage();
 
@@ -5,18 +21,28 @@ function createFullpage() {
     if (fullPageCreated === false) {
         fullPageCreated = true;
         $('#fullpage').fullpage({
+            licenseKey: 'YOUR KEY HERE',
             menu: '#menu',
             navigation: true,
             scrollingSpeed: 1000,
             navigationPosition: 'right',
             anchors: ['secondPage1', 'secondPage2', 'secondPage3', 'secondPage4', 'secondPage5'],
+            onLeave: function(origin, destination, direction){
+                if(destination.index == 4){
+                    $('footer').addClass('active');
+                }else{
+                    $('footer').removeClass('active');
+                }
+            }
         });       
     }
 }
 
 if ($(window).width() <= 1023) {
+
     fullPageCreated = false;
     $.fn.fullpage.destroy('all');
+
 }
 
 if ($(window).width() >= 1024) {
@@ -52,6 +78,14 @@ $(document).ready(function(){
         $('.' + projects).addClass('active');
     });
 
+    $('.info').on('click', function(){
+        $(this).next('.info-popup').addClass('active');
+    });
+
+    $('.icon-close').on('click', function(){
+        $(this).parent('.info-popup').removeClass('active');
+    });
+
     $('.partners-slider').slick({
         rows: 2,
         slidesToShow: 2,
@@ -78,6 +112,27 @@ $(document).ready(function(){
         $('.' + partners).addClass('active');
     });
 
+    var timeout1, timeout2, setImeout, current1 = 0,
+    textArr1 = document.querySelectorAll('.solutions li')
+
+    function ovalIconInit1 () {
+        timeout1 = setTimeout(function() {
+            $('.solutions li').removeClass('active');
+            $('.' + $('.solutions li.active').data('text')).addClass('active');
+            textArr1.forEach(function(i) { (i) >= i.classList.remove('active') });
+            textArr1[current1].classList.add("active");
+            (current1 === 6) ? current1 = 0 : current1++;
+            ovalIconInit1();
+        }, 2850);
+    };
+
+    ovalIconInit1();
+
+    $('.open-menu').on('click', function(){
+        $(this).toggleClass('active');
+        $('.menu').toggleClass('active');
+    });
+
 });
 
 $(window).resize(function() {
@@ -92,3 +147,4 @@ $(window).resize(function() {
     }
 
 });
+

@@ -1,3 +1,59 @@
+.thank-popup{
+    top: 0;
+    left: 0;
+    z-index: 9;
+    width: 100%;
+    height: 100vh;
+    position: fixed;
+    transform: translate(0, -120%);
+    transition: all 0.5s;
+    .close-popup{
+        top: 0;
+        left: 0;
+        z-index: 0;
+        width: 100%;
+        height: 100%;
+        cursor: pointer;
+    }
+    .thank-content{
+        top: 50%;
+        left: 50%;
+        z-index: 1;
+        width: 300px;
+        text-align: center;
+        padding: 60px 20px;
+        position: absolute;
+        background-color: #f1b326;
+        transform: translate(-50%, -50%);
+        .close{
+            top: 15px;
+            right: 15px;
+            cursor: pointer;
+            font-size: 15px;
+            color: #ffffff;
+            position: absolute;
+        }
+        h4{
+            color: #ffffff;
+            font-size: 24px;
+            font-weight: 500;
+            line-height: 24px;
+            margin-bottom: 20px;
+            font-family: 'GothaProMed';
+        }
+        p{
+            color: #ffffff;
+            font-size: 16px;
+            font-weight: 300;
+            line-height: 24px;
+        }
+    }
+}
+
+.thank-popup.active{
+    transform: translate(0, 0);
+}
+
 header{
     top: 0;
     left: 0;
@@ -119,7 +175,32 @@ header{
         }
         .nav{
             .menu{
-                display: none;
+                top: 0;
+                left: 50%;
+                z-index: 0;
+                width: 100vw;
+                height: 100vh;
+                padding: 50px 20px;
+                position: absolute;
+                background: #ffffff;
+                transform: translate(-50%, -120%);
+                transition: all 0.5s;
+                li{
+                    margin-bottom: 40px;
+                    &:last-child{
+                        margin-bottom: 0;
+                    }
+                    a{
+                        color: #333333;
+                        font-size: 18px;
+                        font-weight: 400;
+                        line-height: 24px;
+                        font-family: 'GothaProReg';
+                    }
+                }
+            }
+            .menu.active{
+                transform: translate(-50%, 0);
             }
             .open-menu{
                 top: 0;
@@ -153,11 +234,34 @@ header{
                     }
                 }
             }
+            .open-menu.active{
+                span{
+                    &::after{
+                        content: '\E800';
+                    }
+                }
+            }
         }
     }
 }
 
 @media screen and (min-width: 768px) {
+
+    .thank-popup {
+        .thank-content {
+            width: 440px;
+            padding: 100px 20px 85px;
+            h4 {
+                font-size: 28px;
+                line-height: 30px;
+                margin-bottom: 50px;
+            }
+            p{
+                font-size: 18px;
+                padding: 0 60px;
+            }
+        }
+    }
 
     header {
         .header-content {
@@ -217,8 +321,15 @@ header{
                 width: 50%;
                 background-color: #f1b326;
                 .menu {
+                    padding: 0;
+                    width: auto;
+                    height: auto;
                     display: flex;
+                    position: static;
                     justify-content: center;
+                    background: transparent;
+                    transform: translate(0, 0);
+                    transition: all 0.5s;
                     li{
                         margin: 0 10px;
                         &:first-child{
@@ -250,12 +361,6 @@ header{
             }
         }
     }
-
-}
-
-@media screen and (min-width: 1280px){
-
-
 
 }
 
