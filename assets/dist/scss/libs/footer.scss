@@ -63,6 +63,7 @@ footer{
         left: 0;
         bottom: 0;
         opacity: 0;
+        z-index: -1;
         width: 100%;
         position: absolute;
         transition: all 0.5s;
@@ -103,6 +104,7 @@ footer{
 
     footer.active{
         opacity: 1;
+        z-index: 1;
     }
 
 }

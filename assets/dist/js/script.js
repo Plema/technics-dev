@@ -86,6 +86,14 @@ $(document).ready(function(){
         $(this).parent('.info-popup').removeClass('active');
     });
 
+    $('.close').on('click', function(){
+        $('.thank-popup').removeClass('active');
+    });
+    
+    $('.close-popup').on('click', function(){
+        $('.thank-popup').removeClass('active');
+    });
+
     $('.partners-slider').slick({
         rows: 2,
         slidesToShow: 2,
